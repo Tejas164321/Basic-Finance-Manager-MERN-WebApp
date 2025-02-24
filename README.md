@@ -48,10 +48,8 @@ JWT_SECRET=your_secret_key
 📊 Expense Reports with Charts
 📅 Monthly Budgeting System
 
-
-📌 Author
-👤 Tejas Patil
-📧 tejaspatil1643@gmail.com
-🔗 LinkedIn
-🔗 GitHub
-
+## 📌 Author
+👤 **Tejas Patil**  
+📧 Email: [tejaspatil1643@gmail.com](mailto:tejaspatil1643@gmail.com)  
+🔗 LinkedIn: [Tejas Patil](https://www.linkedin.com/in/tejaspatil1643b)  
+🔗 GitHub: [Tejas164321](https://github.com/Tejas164321
